@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.box {
+    max-width: 600px;
+    padding: 40px 40px 40px 60px;
+    margin: 100px auto 0;
+    background: linear-gradient(#606c38, #fefae0);
+}
+
+body h1 {
+    text-align: center;
+}
+
+#header1 {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+#header2 {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+body th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 0 20px 0 15px;
+}
+
+body td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 0 5px 0 20px;
+}
